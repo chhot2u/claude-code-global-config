@@ -1,0 +1,33 @@
+# Session: 2026-04-05
+**Date:** 2026-04-05
+**Started:** 17:16
+**Last Updated:** 18:34
+**Project:** everything-claude-code
+**Branch:** main
+**Worktree:** /Users/runner/Downloads/everything-claude-code/.claude
+
+---
+<!-- ECC:SUMMARY:START -->
+## Session Summary
+
+### Tasks
+- <command-message>everything-claude-code</command-message> <command-name>/everything-claude-code</command-name>
+- Base directory for this skill: /Users/runner/.claude/skills/everything-claude-code  # Everything Claude Code Conventions  > Generated from [affaan-m/everything-claude-code](https://github.com/affaan-m
+- [Request interrupted by user for tool use]
+- <command-message>everything-claude-code</command-message> <command-name>/everything-claude-code</command-name>
+- Base directory for this skill: /Users/runner/.claude/skills/everything-claude-code  # Everything Claude Code Conventions  > Generated from [affaan-m/everything-claude-code](https://github.com/affaan-m
+
+### Tools Used
+Bash
+
+### Stats
+- Total user messages: 5
+<!-- ECC:SUMMARY:END -->
+
+### Notes for Next Session
+-
+
+### Context to Load
+```
+[relevant files]
+```

@@ -1,0 +1,116 @@
+{
+  "numStartups": 16,
+  "tipsHistory": {
+    "new-user-warmup": 9,
+    "plan-mode-for-complex-tasks": 6,
+    "terminal-setup": 14,
+    "memory-command": 1,
+    "color-when-multi-clauding": 14,
+    "theme-command": 2,
+    "colorterm-truecolor": 2,
+    "status-line": 2,
+    "prompt-queue": 7,
+    "enter-to-steer-in-relatime": 2,
+    "todo-list": 2,
+    "install-github-app": 3,
+    "install-slack-app": 3,
+    "drag-and-drop-images": 3,
+    "paste-images-mac": 3,
+    "double-esc-code-restore": 3,
+    "continue": 3,
+    "shift-tab": 3,
+    "image-paste": 4,
+    "desktop-app": 4,
+    "web-app": 5,
+    "custom-agents": 6,
+    "agent-flag": 6,
+    "mobile-app": 6,
+    "feedback-command": 6,
+    "permissions": 11,
+    "rename-conversation": 11,
+    "custom-commands": 11
+  },
+  "promptQueueUseCount": 4,
+  "firstStartTime": "2026-04-05T14:29:47.964Z",
+  "opusProMigrationComplete": true,
+  "migrationVersion": 11,
+  "userID": "c524d9fcb0bd21cffc6f7f0eeed0dd1f2b4e700df5d732e75d2d55f07263787b",
+  "changelogLastFetched": 1775403192691,
+  "officialMarketplaceAutoInstallAttempted": true,
+  "officialMarketplaceAutoInstalled": true,
+  "githubRepoPaths": {
+    "gitlawb/openclaude": [
+      "/Users/runner/Downloads/openclaude"
+    ],
+    "affaan-m/everything-claude-code": [
+      "/Users/runner/Downloads/everything-claude-code"
+    ]
+  },
+  "projects": {
+    "/Users/runner/Downloads/openclaude": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "openaiShim.ts",
+        "cli.tsx",
+        "REPL.tsx",
+        "main.tsx",
+        "provider-launch.ts"
+      ],
+      "exampleFilesGeneratedAt": 1775404036818
+    },
+    "/Users/runner/Downloads": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [],
+      "hasCompletedProjectOnboarding": true
+    },
+    "/Users/runner/Downloads/everything-claude-code": {
+      "allowedTools": [],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 0,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false,
+      "exampleFiles": [
+        "hooks.test.js",
+        "session-manager.test.js",
+        "validators.test.js",
+        "observe.sh",
+        "utils.js"
+      ],
+      "exampleFilesGeneratedAt": 1775412980628
+    }
+  },
+  "skillUsage": {
+    "prompt-optimizer": {
+      "usageCount": 1,
+      "lastUsedAt": 1775405800105
+    },
+    "configure-ecc": {
+      "usageCount": 1,
+      "lastUsedAt": 1775409586770
+    },
+    "everything-claude-code-conventions": {
+      "usageCount": 2,
+      "lastUsedAt": 1775414076962
+    }
+  }
+}

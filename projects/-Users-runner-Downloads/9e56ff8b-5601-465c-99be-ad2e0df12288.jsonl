@@ -1,0 +1,4 @@
+{"type":"queue-operation","operation":"enqueue","timestamp":"2026-04-05T14:46:52.724Z","sessionId":"9e56ff8b-5601-465c-99be-ad2e0df12288","content":"test"}
+{"type":"queue-operation","operation":"dequeue","timestamp":"2026-04-05T14:46:52.724Z","sessionId":"9e56ff8b-5601-465c-99be-ad2e0df12288"}
+{"parentUuid":null,"isSidechain":false,"promptId":"3aab5d33-e539-4742-b5ee-a983e924b3ed","type":"user","message":{"role":"user","content":"test"},"uuid":"c3f4a5a9-ba1d-4de3-9290-0b05386bff97","timestamp":"2026-04-05T14:46:52.766Z","permissionMode":"default","userType":"external","entrypoint":"sdk-cli","cwd":"/Users/runner/Downloads","sessionId":"9e56ff8b-5601-465c-99be-ad2e0df12288","version":"unknown","gitBranch":"HEAD"}
+{"type":"last-prompt","lastPrompt":"test","sessionId":"9e56ff8b-5601-465c-99be-ad2e0df12288"}

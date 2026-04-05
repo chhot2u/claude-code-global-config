@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git init:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "Bash(git remote:*)",
+      "Bash(git push:*)",
+      "Bash(GIT_CURL_VERBOSE=1 git push -u origin main 2>&1)",
+      "Bash(./install.sh typescript:*)",
+      "Read(//Users/runner/.claude/hooks/**)",
+      "Read(//Users/runner/.claude/**)",
+      "Bash(cp:*)",
+      "Bash(rm -rf /Users/runner/Downloads/openclaude/.claude)",
+      "Bash(cp -r ~/.claude /Users/runner/Downloads/openclaude/.claude)",
+      "Bash(mv /Users/runner/Downloads/.claude/.claude/* /Users/runner/Downloads/.claude/)",
+      "Bash(rmdir /Users/runner/Downloads/.claude/.claude)",
+      "Bash(cp -r /Users/runner/Downloads/everything-claude-code/* /Users/runner/Downloads/)",
+      "Bash(rm -rf /Users/runner/Downloads/node_modules)"
+    ]
+  }
+}

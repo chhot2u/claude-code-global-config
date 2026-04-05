@@ -1,0 +1,29 @@
+# Session: 2026-04-05
+**Date:** 2026-04-05
+**Started:** 17:01
+**Last Updated:** 18:45
+**Project:** Downloads
+**Branch:** unknown
+**Worktree:** /Users/runner/Downloads
+
+---
+<!-- ECC:SUMMARY:START -->
+## Session Summary
+
+### Tasks
+- see claude code config ~/.claude and in downloads/.claude first understand currently which work live
+
+### Tools Used
+Glob, Bash, Read
+
+### Stats
+- Total user messages: 1
+<!-- ECC:SUMMARY:END -->
+
+### Notes for Next Session
+-
+
+### Context to Load
+```
+[relevant files]
+```

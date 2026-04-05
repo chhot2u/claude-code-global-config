@@ -1,0 +1,4 @@
+{"type":"queue-operation","operation":"enqueue","timestamp":"2026-04-05T14:46:11.796Z","sessionId":"b145bb7f-e0bd-42d0-a4b0-ebb6217ca990","content":"Hello, what model are you using?"}
+{"type":"queue-operation","operation":"dequeue","timestamp":"2026-04-05T14:46:11.797Z","sessionId":"b145bb7f-e0bd-42d0-a4b0-ebb6217ca990"}
+{"parentUuid":null,"isSidechain":false,"promptId":"157211d6-bbd0-4b31-901d-368f0636156a","type":"user","message":{"role":"user","content":"Hello, what model are you using?"},"uuid":"bee97783-ab8d-435a-ab18-b28a9237ab96","timestamp":"2026-04-05T14:46:11.853Z","permissionMode":"default","userType":"external","entrypoint":"sdk-cli","cwd":"/Users/runner/Downloads","sessionId":"b145bb7f-e0bd-42d0-a4b0-ebb6217ca990","version":"unknown","gitBranch":"HEAD"}
+{"type":"last-prompt","lastPrompt":"Hello, what model are you using?","sessionId":"b145bb7f-e0bd-42d0-a4b0-ebb6217ca990"}

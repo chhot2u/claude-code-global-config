@@ -1,0 +1,4 @@
+{"type":"queue-operation","operation":"enqueue","timestamp":"2026-04-05T15:08:33.265Z","sessionId":"a153bea2-5222-4af5-aceb-b63b5f3b987e","content":"say hi"}
+{"type":"queue-operation","operation":"dequeue","timestamp":"2026-04-05T15:08:33.267Z","sessionId":"a153bea2-5222-4af5-aceb-b63b5f3b987e"}
+{"parentUuid":null,"isSidechain":false,"promptId":"2ef1e284-80d9-4be7-aa2a-3c7e2c7d996a","type":"user","message":{"role":"user","content":"say hi"},"uuid":"adf1e4d2-8559-4dd3-a737-3905b94eb662","timestamp":"2026-04-05T15:08:33.344Z","permissionMode":"default","userType":"external","entrypoint":"sdk-cli","cwd":"/Users/runner/Downloads/openclaude","sessionId":"a153bea2-5222-4af5-aceb-b63b5f3b987e","version":"unknown","gitBranch":"main"}
+{"type":"last-prompt","lastPrompt":"say hi","sessionId":"a153bea2-5222-4af5-aceb-b63b5f3b987e"}
