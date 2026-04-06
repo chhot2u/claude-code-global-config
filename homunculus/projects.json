@@ -22,5 +22,37 @@
     "remote": "https://github.com/affaan-m/everything-claude-code.git",
     "created_at": "2026-04-05T17:16:26.324639Z",
     "last_seen": "2026-04-05T18:36:14.474751Z"
+  },
+  "9a09ac391017": {
+    "id": "9a09ac391017",
+    "name": "runner",
+    "root": "/Users/runner",
+    "remote": "",
+    "created_at": "2026-04-05T23:39:42.875460Z",
+    "last_seen": "2026-04-06T03:34:47.752774Z"
+  },
+  "2d32b225b958": {
+    "id": "2d32b225b958",
+    "name": "work",
+    "root": "/Users/runner/work",
+    "remote": "",
+    "created_at": "2026-04-05T23:46:17.007476Z",
+    "last_seen": "2026-04-05T23:47:01.316314Z"
+  },
+  "dac763b966a8": {
+    "id": "dac763b966a8",
+    "name": "cocoindex-code",
+    "root": "/Users/runner/work/cocoindex-code",
+    "remote": "https://github.com/chhot2u/cocoindex-code.git",
+    "created_at": "2026-04-05T23:48:05.366256Z",
+    "last_seen": "2026-04-05T23:49:58.808755Z"
+  },
+  "54029f7f6c29": {
+    "id": "54029f7f6c29",
+    "name": ".claude",
+    "root": "/Users/runner/.claude",
+    "remote": "https://github.com/chhot2u/claude-code-global-config.git",
+    "created_at": "2026-04-06T03:38:57.208787Z",
+    "last_seen": "2026-04-06T03:40:30.744315Z"
   }
 }

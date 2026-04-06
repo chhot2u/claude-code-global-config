@@ -16,7 +16,14 @@
       "Bash(mv /Users/runner/Downloads/.claude/.claude/* /Users/runner/Downloads/.claude/)",
       "Bash(rmdir /Users/runner/Downloads/.claude/.claude)",
       "Bash(cp -r /Users/runner/Downloads/everything-claude-code/* /Users/runner/Downloads/)",
-      "Bash(rm -rf /Users/runner/Downloads/node_modules)"
+      "Bash(rm -rf /Users/runner/Downloads/node_modules)",
+      "Bash(gh api:*)",
+      "Bash(uv --version)",
+      "Bash(pipx install:*)",
+      "Bash(timeout 60 cocoindex-code index)",
+      "Bash(cocoindex-code index:*)",
+      "Bash(cocoindex-code --help)",
+      "Bash(openclaude mcp:*)"
     ]
   }
 }
